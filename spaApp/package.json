@@ -2,7 +2,7 @@
   "name": "app",
   "version": "1.0.0",
   "description": "koa2+mysql+vue+element",
-  "author": "197370877@qq.com",
+  "author": "changjin.zhou",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
