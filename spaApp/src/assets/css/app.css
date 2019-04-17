@@ -1,0 +1,9 @@
+.signUp_title{font-size:16px; font-weight:bold; padding: 1.333333rem 0 1.333333rem; color:#333;}
+.avator_box{margin:0 auto; width:120px; margin-bottom:20px;}
+.avator_box .selectImg{position:relative; width:120px; height:120px;}
+.avator_box .selectImg img{position:absolute; top: 0; left: 0; }
+.avator_box .selectImg input{position:absolute; top: 0; left: 0; width: 120px; opacity: 0; height: 150px; z-index: 1; }
+.avator_box .selectImg img{width:120px; height:120px; border-radius:50%; margin: 0 auto; }
+.signup_btn{position:fixed !important; bottom:3rem; }
+
+#app{ min-height: 100vh; }
